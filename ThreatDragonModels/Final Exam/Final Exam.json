@@ -75,8 +75,8 @@
               },
               "vertices": [
                 {
-                  "x": 774,
-                  "y": 69
+                  "x": 454,
+                  "y": 52
                 }
               ],
               "id": "854728db-2dac-43fa-8815-15ecdb1c63fd",
@@ -117,8 +117,8 @@
               },
               "vertices": [
                 {
-                  "x": 768,
-                  "y": 142
+                  "x": 443,
+                  "y": 150
                 }
               ],
               "id": "61b0826a-63b2-4d53-8cfd-3251cf0ecdff",
@@ -291,8 +291,8 @@
                 "height": 80
               },
               "position": {
-                "x": 864,
-                "y": 81
+                "x": 181,
+                "y": 65
               },
               "angle": 0,
               "id": "e7fe8f69-1d50-4090-af25-abb71e64ead7",
@@ -557,27 +557,6 @@
               "type": "tm.Boundary",
               "smooth": true,
               "source": {
-                "x": 844,
-                "y": 1
-              },
-              "target": {
-                "x": 867,
-                "y": 549
-              },
-              "vertices": [
-                {
-                  "x": 820,
-                  "y": 251
-                }
-              ],
-              "id": "f93a82d4-f58a-4d68-889e-bc8b6928cb87",
-              "z": 25,
-              "attrs": {}
-            },
-            {
-              "type": "tm.Boundary",
-              "smooth": true,
-              "source": {
                 "x": 378,
                 "y": 498
               },
@@ -614,6 +593,31 @@
               ],
               "id": "b051055b-595e-43c6-a33f-ddd821c649f8",
               "z": 27,
+              "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 864,
+                "y": 541
+              },
+              "target": {
+                "x": 863,
+                "y": 266
+              },
+              "vertices": [
+                {
+                  "x": 832,
+                  "y": 437
+                },
+                {
+                  "x": 833,
+                  "y": 348
+                }
+              ],
+              "id": "f39bb123-268a-4f71-bf2a-a5f8d3b96a48",
+              "z": 28,
               "attrs": {}
             }
           ]
