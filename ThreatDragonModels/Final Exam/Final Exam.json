@@ -166,7 +166,7 @@
                   },
                   "attrs": {
                     "text": {
-                      "text": "Verification",
+                      "text": "Verification\n(Privilege)",
                       "font-weight": "400",
                       "font-size": "small"
                     }
