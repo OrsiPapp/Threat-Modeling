@@ -390,6 +390,82 @@
                   "class": "connection hasNoOpenThreats isInScope"
                 }
               }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "4bfb69b4-c15e-48a0-906e-1a5ad04da349"
+              },
+              "target": {
+                "id": "9f58bd8a-a09a-4c8d-96de-9154944296c4"
+              },
+              "vertices": [],
+              "id": "3bfa7210-9bf7-4eeb-be39-511acfca906d",
+              "labels": [
+                {
+                  "position": 0.5,
+                  "attrs": {
+                    "text": {
+                      "text": "flow 11",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 20,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
+            },
+            {
+              "type": "tm.Flow",
+              "smooth": true,
+              "source": {
+                "id": "9f58bd8a-a09a-4c8d-96de-9154944296c4"
+              },
+              "target": {
+                "id": "4bfb69b4-c15e-48a0-906e-1a5ad04da349"
+              },
+              "vertices": [
+                {
+                  "x": 452,
+                  "y": 380
+                }
+              ],
+              "id": "cecd03c5-5b6f-4535-863c-2a71daeed4ae",
+              "labels": [
+                {
+                  "position": {
+                    "distance": 0.49982403832814865,
+                    "offset": -0.9914114897767314
+                  },
+                  "attrs": {
+                    "text": {
+                      "text": "flow 12",
+                      "font-weight": "400",
+                      "font-size": "small"
+                    }
+                  }
+                }
+              ],
+              "z": 21,
+              "hasOpenThreats": false,
+              "attrs": {
+                ".marker-target": {
+                  "class": "marker-target hasNoOpenThreats isInScope"
+                },
+                ".connection": {
+                  "class": "connection hasNoOpenThreats isInScope"
+                }
+              }
             }
           ]
         },
