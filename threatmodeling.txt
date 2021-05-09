@@ -1,0 +1,9 @@
+Welcome to my GitHub!
+
+Let`s learn about threat modeling together!
+
+Threat modeling is a technique for improving network protection by identifying vulnerabilities, determining goals, and devising countermeasures to avoid or minimize the consequences of cyber-attacks on the infrastructure.
+
+Threat modeling can be done at some stage during the development process, but it's easier to do it right at the beginning. Threats should be detected and dealt with earlier, until they become an issue. To get a graphical model of the network, you'll need to review data flow transformations, architecture diagrams, and data classifications.
+
+The act of evaluating your organization's digital and network properties, finding weak points, deciding what risks occur, and devising strategies to defend or recover is known as threat modeling. In recent years, cybercrime has taken a heavy toll on the online world.
