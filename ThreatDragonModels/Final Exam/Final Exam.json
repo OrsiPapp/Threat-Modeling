@@ -594,6 +594,27 @@
               "id": "ab051eb2-1534-4e51-88ce-352bf30fdb43",
               "z": 26,
               "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 382,
+                "y": 162
+              },
+              "target": {
+                "x": 791,
+                "y": 182
+              },
+              "vertices": [
+                {
+                  "x": 591,
+                  "y": 217
+                }
+              ],
+              "id": "b051055b-595e-43c6-a33f-ddd821c649f8",
+              "z": 27,
+              "attrs": {}
             }
           ]
         },
