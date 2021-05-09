@@ -314,78 +314,6 @@
               "type": "tm.Flow",
               "smooth": true,
               "source": {
-                "x": 30,
-                "y": 20
-              },
-              "target": {
-                "x": 110,
-                "y": 100
-              },
-              "vertices": [],
-              "id": "755c5bc6-88e3-439e-96f3-370c1cfd1421",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "flow 9",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 15,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
-                "x": 30,
-                "y": 20
-              },
-              "target": {
-                "x": 110,
-                "y": 100
-              },
-              "vertices": [],
-              "id": "6084c9c8-dd0e-4613-baad-3a608790b239",
-              "labels": [
-                {
-                  "position": 0.5,
-                  "attrs": {
-                    "text": {
-                      "text": "flow 10",
-                      "font-weight": "400",
-                      "font-size": "small"
-                    }
-                  }
-                }
-              ],
-              "z": 16,
-              "hasOpenThreats": false,
-              "attrs": {
-                ".marker-target": {
-                  "class": "marker-target hasNoOpenThreats isInScope"
-                },
-                ".connection": {
-                  "class": "connection hasNoOpenThreats isInScope"
-                }
-              }
-            },
-            {
-              "type": "tm.Flow",
-              "smooth": true,
-              "source": {
                 "id": "b0a546c4-04f6-4df6-81a3-9723852fecf1"
               },
               "target": {
@@ -466,7 +394,7 @@
           ]
         },
         "size": {
-          "height": 5267.35986328125,
+          "height": 9215.884765625,
           "width": 1857.06884765625
         }
       }
