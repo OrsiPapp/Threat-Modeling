@@ -25,16 +25,26 @@
               "angle": 0,
               "id": "3be6700b-e2eb-41f7-8e22-d655e58c7644",
               "z": 2,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "High",
+                  "type": "Elevation of privilege",
+                  "description": "In order to obtain extra privileges, the browser client will be able to impersonate the context of the web application. Data may be passed into the browser by an intruder.",
+                  "title": "Elevation of priviliege",
+                  "mitigation": "This zero-day vulnerability would not affect current operating systems such as Windows 10. SMEP, ASLR enhancements, and virtualization-based authentication are some of the mitigations that can be used to protect the exploit. Microsoft published tactical mitigation to avoid the misuse of pfnGetNearestFromPalentry with the Windows 10 Anniversary Update in August 2016. When PALETTE function pointers are called, the mitigation tests their authenticity, ensuring that only a predefined group of functions are called and avoiding any violation of the framework. Hundreds of EoP vulnerabilities are rendered useless automatically, potentially raising the threshold for a vast pool of attackers. If SMEP is enabled, Coreinfo will display it."
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "Authorization\nProvider"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
@@ -297,16 +307,24 @@
               "angle": 0,
               "id": "e7fe8f69-1d50-4090-af25-abb71e64ead7",
               "z": 14,
-              "hasOpenThreats": false,
+              "hasOpenThreats": true,
+              "threats": [
+                {
+                  "status": "Open",
+                  "severity": "Medium",
+                  "type": "Tampering",
+                  "title": "SQL Injection"
+                }
+              ],
               "attrs": {
                 ".element-shape": {
-                  "class": "element-shape hasNoOpenThreats isInScope"
+                  "class": "element-shape hasOpenThreats isInScope"
                 },
                 "text": {
                   "text": "LDAP"
                 },
                 ".element-text": {
-                  "class": "element-text hasNoOpenThreats isInScope"
+                  "class": "element-text hasOpenThreats isInScope"
                 }
               }
             },
