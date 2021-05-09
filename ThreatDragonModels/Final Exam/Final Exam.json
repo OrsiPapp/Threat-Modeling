@@ -573,6 +573,27 @@
               "id": "f93a82d4-f58a-4d68-889e-bc8b6928cb87",
               "z": 25,
               "attrs": {}
+            },
+            {
+              "type": "tm.Boundary",
+              "smooth": true,
+              "source": {
+                "x": 378,
+                "y": 498
+              },
+              "target": {
+                "x": 416,
+                "y": 309
+              },
+              "vertices": [
+                {
+                  "x": 370,
+                  "y": 394
+                }
+              ],
+              "id": "ab051eb2-1534-4e51-88ce-352bf30fdb43",
+              "z": 26,
+              "attrs": {}
             }
           ]
         },
