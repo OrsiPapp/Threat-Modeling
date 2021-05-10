@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-10T00:44:41.746Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="11CjIcgr6ryKBFSCM7ft" version="14.6.11" type="github">
+<mxfile modified="2021-05-10T00:45:09.153Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="0U_P04PThkawoPwQvAZk" version="14.6.11" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-13" value="Web Application Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="632" y="342" width="96" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="znl-4AqAwqSY6YVXTJ4J-14" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;" vertex="1" parent="1">
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-14" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;labelPosition=left;" vertex="1" parent="1">
           <mxGeometry x="172" y="352.5" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-21" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="znl-4AqAwqSY6YVXTJ4J-19" target="znl-4AqAwqSY6YVXTJ4J-14">
@@ -22,7 +22,7 @@
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-24" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="znl-4AqAwqSY6YVXTJ4J-19" target="znl-4AqAwqSY6YVXTJ4J-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="znl-4AqAwqSY6YVXTJ4J-19" value="User" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-19" value="User" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=top;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="172" y="164" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="znl-4AqAwqSY6YVXTJ4J-20" target="znl-4AqAwqSY6YVXTJ4J-14">
