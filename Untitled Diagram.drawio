@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-10T00:48:28.813Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="HFZMNGPB4-8UfKqk909D" version="14.6.11" type="github">
+<mxfile modified="2021-05-10T00:49:27.529Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hi9N72dWRmnci6SVEv7E" version="14.6.11" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
@@ -44,6 +44,11 @@
         </mxCell>
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-24" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="znl-4AqAwqSY6YVXTJ4J-19" target="znl-4AqAwqSY6YVXTJ4J-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-34" value="Normal query response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#1A1A1A;" vertex="1" connectable="0" parent="znl-4AqAwqSY6YVXTJ4J-24">
+          <mxGeometry x="-0.133" y="-1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-19" value="User" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=top;html=1;verticalAlign=bottom;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;labelPosition=center;" vertex="1" parent="1">
           <mxGeometry x="172" y="164" width="99" height="99" as="geometry" />
