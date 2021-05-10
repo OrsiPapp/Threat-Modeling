@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-10T00:45:47.004Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="n18twizAdPLqmk4E_Gyq" version="14.6.11" type="github">
+<mxfile modified="2021-05-10T00:47:09.677Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="84Jy5SGGxg-YbU7NLaL5" version="14.6.11" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
@@ -15,6 +15,11 @@
             <Array as="points">
               <mxPoint x="680" y="605" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-29" value="Leaked database architecture and connection details" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1A1A1A;" vertex="1" connectable="0" parent="znl-4AqAwqSY6YVXTJ4J-26">
+          <mxGeometry x="0.0419" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-13" value="Web Application Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;verticalAlign=top;" vertex="1" parent="1">
