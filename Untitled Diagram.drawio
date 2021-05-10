@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-10T00:49:27.529Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="hi9N72dWRmnci6SVEv7E" version="14.6.11" type="github">
+<mxfile modified="2021-05-10T00:51:02.028Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Bd-roXl8sKqpDunW09F_" version="14.6.11" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-13" value="Web Application Server" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="632" y="342" width="96" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="znl-4AqAwqSY6YVXTJ4J-14" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;labelPosition=left;" vertex="1" parent="1">
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-14" value="Web application" style="outlineConnect=0;dashed=0;verticalLabelPosition=middle;verticalAlign=middle;align=right;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;labelPosition=left;" vertex="1" parent="1">
           <mxGeometry x="172" y="352.5" width="99" height="99" as="geometry" />
         </mxCell>
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-21" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#1A1A1A;strokeColor=#736CA8;" edge="1" parent="1" source="znl-4AqAwqSY6YVXTJ4J-19" target="znl-4AqAwqSY6YVXTJ4J-14">
