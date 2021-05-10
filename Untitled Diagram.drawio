@@ -1,19 +1,19 @@
-<mxfile modified="2021-05-10T00:30:52.533Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="2mz-SlL-kn0-ieRvOiWx" version="14.6.11" type="github">
+<mxfile modified="2021-05-10T00:32:03.531Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="vwBCiJVcX3pd-zccMC_y" version="14.6.11" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="znl-4AqAwqSY6YVXTJ4J-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;" vertex="1" parent="1">
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/SQL_Database.svg;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="440" width="97.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="znl-4AqAwqSY6YVXTJ4J-2" value="Web Application" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-2" value="Web Application" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="350" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="znl-4AqAwqSY6YVXTJ4J-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/mozilla-icons/128/firefox_png.png" vertex="1" parent="1">
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/mozilla-icons/128/firefox_png.png;fillColor=#5D7F99;strokeColor=#D0CEE2;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="360" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="znl-4AqAwqSY6YVXTJ4J-4" value="" style="points=[[0.5,0,0],[0.765,0.48,0],[0.99,0.98,0],[0.5,1,0],[0.01,0.98,0],[0.235,0.48,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.ldap;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-4" value="" style="points=[[0.5,0,0],[0.765,0.48,0],[0.99,0.98,0],[0.5,1,0],[0.01,0.98,0],[0.235,0.48,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.ldap;fillColor=#5D7F99;strokeColor=none;fontColor=#1A1A1A;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="230" width="94.12" height="80" as="geometry" />
         </mxCell>
       </root>
