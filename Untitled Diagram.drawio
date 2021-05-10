@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-10T00:41:22.901Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="1hk85jcROTAmtm0Z-auU" version="14.6.11" type="github">
+<mxfile modified="2021-05-10T00:43:56.616Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Po4RVkUVQJ0DoY0_qpep" version="14.6.11" type="github">
   <diagram id="7gcUSTIZ7YSJ5vT40chW" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="1">
       <root>
@@ -15,6 +15,12 @@
         </mxCell>
         <mxCell id="znl-4AqAwqSY6YVXTJ4J-14" value="Client" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;" vertex="1" parent="1">
           <mxGeometry x="172" y="352.5" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-19" value="User" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;rounded=1;sketch=0;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="172" y="164" width="99" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="znl-4AqAwqSY6YVXTJ4J-20" value="Attacker" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/kameleon-free-pack-rounded/110/Hacker-128.png;rounded=1;sketch=0;fontColor=#1A1A1A;strokeColor=#D0CEE2;fillColor=#5D7F99;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="541" width="128" height="128" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
